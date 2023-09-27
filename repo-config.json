@@ -6,6 +6,13 @@
     "enableLicenseViolations": true,
     "enableReachability": true
   },
+  "imageSettings": {
+    "imageTracing": {
+        "enableImageTracingPR": true,
+        "addDockerfilePath": true,
+        "addRepositoryCoordinates": true
+    }
+  },
   "scanSettingsSAST": {
     "enableScan": true,
     "scanPullRequests": true,
