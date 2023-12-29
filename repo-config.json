@@ -26,7 +26,8 @@
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
     "useMendCheckNames": true,
-    "strictMode": "warning"
+    "strictMode": "failure",
+    "checkRunSettings.failOnVulnerabilityMinCvss": 9.0
   },
   "checkRunSettingsSAST": {
     "checkRunConclusionLevel": "failure",
