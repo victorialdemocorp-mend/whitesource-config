@@ -4,7 +4,9 @@
     "configExternalURL": "",
     "baseBranches": [],
     "enableLicenseViolations": true,
-    "enableReachability": true
+    "enableReachability": true,
+    "exploitability": true
+    
   },
   "imageSettings": {
     "imageTracing": {
