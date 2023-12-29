@@ -27,7 +27,7 @@
     "displayMode": "diff",
     "useMendCheckNames": true,
     "strictMode": "failure",
-    "checkRunSettings.failOnVulnerabilityMinCvss": 9.0
+    "failOnVulnerabilityMinCvss": 9.0
   },
   "checkRunSettingsSAST": {
     "checkRunConclusionLevel": "failure",
